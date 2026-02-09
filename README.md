@@ -7,7 +7,10 @@
 
 **Canonical record (Zenodo DOI):** https://zenodo.org/records/17933704
 **License:** CC BY 4.0  
-**Contact:** pkf.eunyoung@gmail.com  
+**Correspondence: pkf.eunyoung@gmail.com
+This document serves as a canonical reference.
+Correspondence is limited to scholarly clarification or citation-related matters.
+
 
 > This document is a narrative-medicine instantiation of the Pain Kernel Framework.  
 > For the authoritative, citable scientific record, please refer to the Zenodo DOI above.
